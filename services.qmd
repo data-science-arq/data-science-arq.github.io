@@ -1,0 +1,22 @@
+---
+title: "Services"
+---
+
+## How we can help
+
+The Data Science team can support colleagues with:
+
+- Formulating research questions
+- Study design and analysis plans
+- Sample size and power calculations
+- Statistical analyses
+- Machine learning and prediction modelling
+- Routine Outcome Monitoring reports
+- Data cleaning and validation
+- Dashboards and automated reports
+- Manuscript methods and results sections
+- Reproducible R workflows
+
+## When to contact us
+
+You can contact the Data Science team when you are planning a study, preparing a manuscript, developing a report, working with clinical data, or exploring possibilities for prediction modelling or dashboarding.

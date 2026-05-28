@@ -1,0 +1,11 @@
+---
+title: "Contact"
+---
+
+## Contact
+
+For questions about data science, statistical analysis, reporting, or methodological support, please contact the Data Science team.
+
+**Email:** [add email address here]
+
+Alternatively, colleagues can contact one of the team members directly.

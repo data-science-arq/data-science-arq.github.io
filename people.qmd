@@ -1,0 +1,23 @@
+---
+title: "People"
+---
+
+## Team members
+
+### Hassan Pazira
+
+**Methodologist and Data Analyst**
+
+Hassan supports research projects with statistical modelling, prediction modelling, reproducible reporting, and data preparation. His interests include longitudinal data analysis, clinical prediction models, psychometrics, and machine learning.
+
+### [Name]
+
+**[Role]**
+
+Short description of the person's expertise and responsibilities.
+
+### [Name]
+
+**[Role]**
+
+Short description of the person's expertise and responsibilities.

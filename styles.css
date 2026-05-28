@@ -21,7 +21,7 @@ body {
 }
 
 .navbar {
-  background-color: #1f3a5f !important;
+  background-color: #0f172a !important;
 }
 
 .navbar-title,
@@ -30,11 +30,5 @@ body {
 }
 
 .navbar-nav .nav-link.active {
-  color: #dbeafe !important;
+  color: #93c5fd !important;
 }
-
-.navbar .aa-DetachedSearchButton,
-.navbar .quarto-search-button {
-  color: white !important;
-}
-

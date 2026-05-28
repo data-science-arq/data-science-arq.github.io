@@ -19,3 +19,22 @@ body {
   margin-left: auto !important;
   margin-right: 50px !important;
 }
+
+.navbar {
+  background-color: #1f3a5f !important;
+}
+
+.navbar-title,
+.navbar-nav .nav-link {
+  color: white !important;
+}
+
+.navbar-nav .nav-link.active {
+  color: #dbeafe !important;
+}
+
+.navbar .aa-DetachedSearchButton,
+.navbar .quarto-search-button {
+  color: white !important;
+}
+

@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Data Science @ ARQ"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: our-work.qmd
+        text: Our work
+      - href: people.qmd
+        text: People
+      - href: services.qmd
+        text: Services
+      - href: contact.qmd
+        text: Contact
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false

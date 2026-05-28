@@ -1,0 +1,25 @@
+---
+title: "Data Science @ ARQ"
+---
+
+## Data Science @ ARQ
+
+The Data Science team at ARQ supports research, clinical practice, and organizational decision-making through high-quality data management, statistical modelling, machine learning, and reproducible reporting.
+
+We help colleagues translate complex data into reliable and actionable insights. Our work includes routine outcome monitoring, treatment evaluation, prediction modelling, psychometrics, dashboarding, and methodological consultation.
+
+Our goal is to strengthen evidence-based practice within ARQ by making data analysis transparent, reproducible, and clinically meaningful.
+
+## What we do
+
+### Research support
+
+We support researchers with study design, statistical analysis, prediction modelling, and manuscript preparation.
+
+### Clinical and organizational insights
+
+We help translate clinical and organizational data into useful insights for treatment evaluation, service improvement, and decision-making.
+
+### Reproducible reporting
+
+We develop reproducible workflows for reports, dashboards, and data products.

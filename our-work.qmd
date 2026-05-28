@@ -1,0 +1,27 @@
+---
+title: "Our work"
+---
+
+## Our work
+
+The Data Science team works across several areas.
+
+### Routine Outcome Monitoring and reporting
+
+We support ROM reporting, outcome monitoring, questionnaire data processing, and automated reporting workflows.
+
+### Statistical modelling and methodology
+
+We provide methodological support for research projects, including regression models, mixed-effects models, survival analysis, psychometrics, and prediction modelling.
+
+### Machine learning and personalized prediction
+
+We explore the use of machine learning methods for clinical prediction, risk stratification, and personalized treatment recommendations.
+
+### Dashboards and data products
+
+We contribute to dashboards, interactive reports, and tools that help colleagues explore and interpret data.
+
+### Data quality and infrastructure
+
+We support data cleaning, validation, harmonization, documentation, and reproducible data workflows.

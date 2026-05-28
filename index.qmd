@@ -1,14 +1,13 @@
 ---
-title: "Data Science @ ARQ"
+title: ""
 ---
 
 ::: {.hero}
 ::: {.hero-text}
-<span class="at-sign">Data Science &nbsp; &nbsp; @ </span>
+<span class="at-sign">Data Science &nbsp; &nbsp; &nbsp; @ </span>
 :::
 :::
 
-## Data Science @ ARQ
 
 The Data Science team at ARQ supports research, clinical practice, and organizational decision-making through high-quality data management, statistical modelling, machine learning, and reproducible reporting.
 

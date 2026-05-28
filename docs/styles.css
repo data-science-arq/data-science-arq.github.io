@@ -26,9 +26,35 @@ body {
 
 .navbar-title,
 .navbar-nav .nav-link {
-  color: white !important;
+  color: #E85363 !important;
 }
 
 .navbar-nav .nav-link.active {
   color: #93c5fd !important;
 }
+.hero {
+  background-image: url("images/arq-logo.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 370px;
+  border-radius: 8px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  margin-bottom: 35px;
+  padding-top: 15px;
+  padding-left: 130px;
+}
+
+.hero-text {
+  color: white;
+  font-size: 48px;
+  font-weight: 700;
+  text-align: center;
+  text-shadow: 0 2px 8px rgba(0, 0, 0, 0.45);
+}
+
+.at-sign {
+  color: #C05CFF;
+}
+

@@ -4,7 +4,7 @@ title: ""
 
 ::: {.hero}
 ::: {.hero-text}
-<span class="at-sign">Data Science @ </span>
+<span class="at-sign"> </span>
 :::
 :::
 

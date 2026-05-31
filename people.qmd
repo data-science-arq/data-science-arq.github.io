@@ -4,20 +4,42 @@ title: "People"
 
 ## Team members
 
+::: {.people-grid}
+
+::: {.person-card}
+![](images/people/annelies.jpg)
+
+### Annelies de Haan
+
+**Policy Advisor and Data Analyst**
+
+[Read more](people/annelies.qmd)
+
+
+:::
+
+::: {.person-card}
+![](images/people/hassan.jpg)
+
 ### Hassan Pazira
 
 **Methodologist and Data Analyst**
 
-Hassan supports research projects with statistical modelling, prediction modelling, reproducible reporting, and data preparation. His interests include longitudinal data analysis, clinical prediction models, psychometrics, and machine learning.
+[Read more](people/hassan.qmd)
 
-### [Name]
+:::
 
-**[Role]**
+::: {.person-card}
+![](images/people/saara.jpg)
 
-Short description of the person's expertise and responsibilities.
 
-### [Name]
+### Saara Martinmäki
 
-**[Role]**
+**Policy Advisor and Data Analyst**
 
-Short description of the person's expertise and responsibilities.
+[Read more](people/saara.qmd)
+
+:::
+
+:::
+

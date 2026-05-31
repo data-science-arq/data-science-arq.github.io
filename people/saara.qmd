@@ -1,0 +1,26 @@
+---
+title: "Saara Martinmäki"
+---
+
+::: {.profile-page}
+
+::: {.profile-text}
+
+## Saara Martinmäki
+
+Staff support, General quantitative research methods.
+
+
+**E:** h.pazira - at - arq.org
+
+[LinkedIn](#) | [ResearchGate](#)
+
+:::
+
+::: {.profile-photo}
+
+![](../images/people/saara.jpg)
+
+:::
+
+:::

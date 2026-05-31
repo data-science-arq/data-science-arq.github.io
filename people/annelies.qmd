@@ -1,0 +1,25 @@
+---
+title: "Annelies de Haan"
+---
+
+::: {.profile-page}
+
+::: {.profile-text}
+
+## Annelies de Haan
+
+General quantitative research methods, Complex quantitative research methods, Experimental research designs (Randomized Controlled Trials).
+
+**E:** h.pazira - at - arq.org
+
+[LinkedIn](#) | [ResearchGate](#)
+
+:::
+
+::: {.profile-photo}
+
+![](../images/people/annelies.jpg)
+
+:::
+
+:::

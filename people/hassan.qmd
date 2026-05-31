@@ -1,0 +1,30 @@
+---
+title: "Hassan Pazira"
+---
+
+::: {.profile-page}
+
+::: {.profile-text}
+
+## Hassan Pazira
+
+Hassan supports research projects with statistical modelling, prediction modelling, reproducible reporting, and data preparation. His interests include longitudinal data analysis, clinical prediction models, psychometrics, and machine learning.
+
+Hassan Pazira is a methodologist and data analyst at ARQ. He supports research and clinical projects with statistical modelling, prediction modelling, routine outcome monitoring, reproducible reporting, and data preparation.
+
+His interests include longitudinal data analysis, clinical prediction models, psychometrics, personalized prediction, and machine learning applications in mental health and psychotrauma care.
+
+**E:** h.pazira - at - arq.org
+
+[LinkedIn](#) | [ResearchGate](#)
+
+:::
+
+::: {.profile-photo}
+
+![](../images/people/hassan.jpg)
+
+:::
+
+:::
+

@@ -21,32 +21,32 @@
     "text": "When to contact us\nYou can contact the Data Science team when you are planning a study, preparing a manuscript, developing a report, working with clinical data, or exploring possibilities for prediction modelling or dashboarding."
   },
   {
-    "objectID": "our-work.html",
-    "href": "our-work.html",
-    "title": "Our work",
+    "objectID": "people/saara.html",
+    "href": "people/saara.html",
+    "title": "Saara Martinmäki",
     "section": "",
-    "text": "The Data Science team works across several areas.\n\n\nWe support ROM reporting, outcome monitoring, questionnaire data processing, and automated reporting workflows.\n\n\n\nWe provide methodological support for research projects, including regression models, mixed-effects models, survival analysis, psychometrics, and prediction modelling.\n\n\n\nWe explore the use of machine learning methods for clinical prediction, risk stratification, and personalized treatment recommendations.\n\n\n\nWe contribute to dashboards, interactive reports, and tools that help colleagues explore and interpret data.\n\n\n\nWe support data cleaning, validation, harmonization, documentation, and reproducible data workflows."
+    "text": "Staff support, General quantitative research methods.\nE: h.pazira - at - arq.org\nLinkedIn | ResearchGate"
   },
   {
-    "objectID": "our-work.html#our-work",
-    "href": "our-work.html#our-work",
-    "title": "Our work",
+    "objectID": "people/saara.html#saara-martinmäki",
+    "href": "people/saara.html#saara-martinmäki",
+    "title": "Saara Martinmäki",
     "section": "",
-    "text": "The Data Science team works across several areas.\n\n\nWe support ROM reporting, outcome monitoring, questionnaire data processing, and automated reporting workflows.\n\n\n\nWe provide methodological support for research projects, including regression models, mixed-effects models, survival analysis, psychometrics, and prediction modelling.\n\n\n\nWe explore the use of machine learning methods for clinical prediction, risk stratification, and personalized treatment recommendations.\n\n\n\nWe contribute to dashboards, interactive reports, and tools that help colleagues explore and interpret data.\n\n\n\nWe support data cleaning, validation, harmonization, documentation, and reproducible data workflows."
+    "text": "Staff support, General quantitative research methods.\nE: h.pazira - at - arq.org\nLinkedIn | ResearchGate"
   },
   {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
+    "objectID": "people/annelies.html",
+    "href": "people/annelies.html",
+    "title": "Annelies de Haan",
     "section": "",
-    "text": "For questions about data science, statistical analysis, reporting, or methodological support, please contact the Data Science team.\nEmail: [add email address here]\nAlternatively, colleagues can contact one of the team members directly."
+    "text": "General quantitative research methods, Complex quantitative research methods, Experimental research designs (Randomized Controlled Trials).\nE: h.pazira - at - arq.org\nLinkedIn | ResearchGate"
   },
   {
-    "objectID": "contact.html#contact",
-    "href": "contact.html#contact",
-    "title": "Contact",
+    "objectID": "people/annelies.html#annelies-de-haan",
+    "href": "people/annelies.html#annelies-de-haan",
+    "title": "Annelies de Haan",
     "section": "",
-    "text": "For questions about data science, statistical analysis, reporting, or methodological support, please contact the Data Science team.\nEmail: [add email address here]\nAlternatively, colleagues can contact one of the team members directly."
+    "text": "General quantitative research methods, Complex quantitative research methods, Experimental research designs (Randomized Controlled Trials).\nE: h.pazira - at - arq.org\nLinkedIn | ResearchGate"
   },
   {
     "objectID": "index.html",
@@ -63,17 +63,59 @@
     "text": "What we do\n\nResearch support\nWe support researchers with study design, statistical analysis, prediction modelling, and manuscript preparation.\n\n\nClinical and organizational insights\nWe help translate clinical and organizational data into useful insights for treatment evaluation, service improvement, and decision-making.\n\n\nReproducible reporting\nWe develop reproducible workflows for reports, dashboards, and data products."
   },
   {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "For questions about data science, statistical analysis, reporting, or methodological support, please contact the Data Science team.\nEmail: [add email address here]\nAlternatively, colleagues can contact one of the team members directly."
+  },
+  {
+    "objectID": "contact.html#contact",
+    "href": "contact.html#contact",
+    "title": "Contact",
+    "section": "",
+    "text": "For questions about data science, statistical analysis, reporting, or methodological support, please contact the Data Science team.\nEmail: [add email address here]\nAlternatively, colleagues can contact one of the team members directly."
+  },
+  {
+    "objectID": "our-work.html",
+    "href": "our-work.html",
+    "title": "Our work",
+    "section": "",
+    "text": "The Data Science team works across several areas.\n\n\nWe support ROM reporting, outcome monitoring, questionnaire data processing, and automated reporting workflows.\n\n\n\nWe provide methodological support for research projects, including regression models, mixed-effects models, survival analysis, psychometrics, and prediction modelling.\n\n\n\nWe explore the use of machine learning methods for clinical prediction, risk stratification, and personalized treatment recommendations.\n\n\n\nWe contribute to dashboards, interactive reports, and tools that help colleagues explore and interpret data.\n\n\n\nWe support data cleaning, validation, harmonization, documentation, and reproducible data workflows."
+  },
+  {
+    "objectID": "our-work.html#our-work",
+    "href": "our-work.html#our-work",
+    "title": "Our work",
+    "section": "",
+    "text": "The Data Science team works across several areas.\n\n\nWe support ROM reporting, outcome monitoring, questionnaire data processing, and automated reporting workflows.\n\n\n\nWe provide methodological support for research projects, including regression models, mixed-effects models, survival analysis, psychometrics, and prediction modelling.\n\n\n\nWe explore the use of machine learning methods for clinical prediction, risk stratification, and personalized treatment recommendations.\n\n\n\nWe contribute to dashboards, interactive reports, and tools that help colleagues explore and interpret data.\n\n\n\nWe support data cleaning, validation, harmonization, documentation, and reproducible data workflows."
+  },
+  {
+    "objectID": "people/hassan.html",
+    "href": "people/hassan.html",
+    "title": "Hassan Pazira",
+    "section": "",
+    "text": "Hassan supports research projects with statistical modelling, prediction modelling, reproducible reporting, and data preparation. His interests include longitudinal data analysis, clinical prediction models, psychometrics, and machine learning.\nHassan Pazira is a methodologist and data analyst at ARQ. He supports research and clinical projects with statistical modelling, prediction modelling, routine outcome monitoring, reproducible reporting, and data preparation.\nHis interests include longitudinal data analysis, clinical prediction models, psychometrics, personalized prediction, and machine learning applications in mental health and psychotrauma care.\nE: h.pazira - at - arq.org\nLinkedIn | ResearchGate"
+  },
+  {
+    "objectID": "people/hassan.html#hassan-pazira",
+    "href": "people/hassan.html#hassan-pazira",
+    "title": "Hassan Pazira",
+    "section": "",
+    "text": "Hassan supports research projects with statistical modelling, prediction modelling, reproducible reporting, and data preparation. His interests include longitudinal data analysis, clinical prediction models, psychometrics, and machine learning.\nHassan Pazira is a methodologist and data analyst at ARQ. He supports research and clinical projects with statistical modelling, prediction modelling, routine outcome monitoring, reproducible reporting, and data preparation.\nHis interests include longitudinal data analysis, clinical prediction models, psychometrics, personalized prediction, and machine learning applications in mental health and psychotrauma care.\nE: h.pazira - at - arq.org\nLinkedIn | ResearchGate"
+  },
+  {
     "objectID": "people.html",
     "href": "people.html",
     "title": "People",
     "section": "",
-    "text": "Methodologist and Data Analyst\nHassan supports research projects with statistical modelling, prediction modelling, reproducible reporting, and data preparation. His interests include longitudinal data analysis, clinical prediction models, psychometrics, and machine learning.\n\n\n\n[Role]\nShort description of the person’s expertise and responsibilities.\n\n\n\n[Role]\nShort description of the person’s expertise and responsibilities."
+    "text": "Policy Advisor and Data Analyst\nRead more\n\n\n\n\n\n\nMethodologist and Data Analyst\nRead more\n\n\n\n\n\n\nPolicy Advisor and Data Analyst\nRead more"
   },
   {
     "objectID": "people.html#team-members",
     "href": "people.html#team-members",
     "title": "People",
     "section": "",
-    "text": "Methodologist and Data Analyst\nHassan supports research projects with statistical modelling, prediction modelling, reproducible reporting, and data preparation. His interests include longitudinal data analysis, clinical prediction models, psychometrics, and machine learning.\n\n\n\n[Role]\nShort description of the person’s expertise and responsibilities.\n\n\n\n[Role]\nShort description of the person’s expertise and responsibilities."
+    "text": "Policy Advisor and Data Analyst\nRead more\n\n\n\n\n\n\nMethodologist and Data Analyst\nRead more\n\n\n\n\n\n\nPolicy Advisor and Data Analyst\nRead more"
   }
 ]

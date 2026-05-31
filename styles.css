@@ -58,3 +58,97 @@ body {
   color: #FF3F4F;
 }
 
+@media (max-width: 768px) {
+  .hero {
+    height: 420px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: #ffffff;
+    padding-top: 40px;
+    padding-left: 20px;
+  }
+
+  .hero-text {
+    font-size: 28px;
+    text-align: left;
+  }
+}
+
+.people-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 48px;
+  margin-top: 30px;
+}
+
+.person-card img {
+  width: 100%;
+  max-width: 190px;
+  height: 190px;
+  object-fit: cover;
+  border-radius: 4px;
+  margin-bottom: 18px;
+}
+
+.person-card h3 {
+  color: #0f172a;
+  font-size: 22px;
+  margin-bottom: 30px;
+}
+
+.person-card p {
+  margin-bottom: 6px;
+}
+
+.person-card a {
+  color: #FF3F4F;
+  text-decoration: none;
+}
+
+.person-card a:hover {
+  text-decoration: underline;
+}
+
+@media (max-width: 768px) {
+  .people-grid {
+    grid-template-columns: 1fr;
+    gap: 35px;
+  }
+
+  .person-card img {
+    max-width: 220px;
+    height: 220px;
+  }
+}
+
+.profile-page {
+  display: grid;
+  grid-template-columns: 2fr 0.8fr;
+  gap: 60px;
+  align-items: start;
+  margin-top: 30px;
+}
+
+.profile-photo img {
+  width: 230px;
+  height: 230px;
+  object-fit: cover;
+  border-radius: 4px;
+}
+
+.profile-text {
+  font-size: 17px;
+  line-height: 1.7;
+}
+
+@media (max-width: 768px) {
+  .profile-page {
+    grid-template-columns: 1fr;
+  }
+
+  .profile-photo img {
+    width: 200px;
+    height: 200px;
+  }
+}

@@ -2,7 +2,7 @@
 title: "People"
 ---
 
-## Data Science Team members
+## Data Science Team Members
 
 ::: {.people-grid}
 

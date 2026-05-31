@@ -8,23 +8,11 @@ title: ""
 :::
 :::
 
+## Data Science Group
+The Data Science (DS) group at ARQ Nationaal Psychotrauma Centrum provides statistical collaboration, data-analytic methodological support, and data management for psychiatric and mental health research. We collaborate with researchers across ARQ by providing data preparation, statistical expertise, reproducible analysis, and support for research projects.
 
-The Data Science team at ARQ supports research, clinical practice, and organizational decision-making through high-quality data management, statistical modelling, machine learning, and reproducible reporting.
+## Our Work
+The DS group supports researchers with study design, statistical analysis, prediction modelling, data management, and manuscript preparation. We help translate complex data into reliable and actionable insights, using modern statistical and data science methods to advance the understanding, evaluation, and improvement of mental health care.
 
-We help colleagues translate complex data into reliable and actionable insights. Our work includes routine outcome monitoring, treatment evaluation, prediction modelling, psychometrics, dashboarding, and methodological consultation.
-
-Our goal is to strengthen evidence-based practice within ARQ by making data analysis transparent, reproducible, and clinically meaningful.
-
-## What we do
-
-### Research support
-
-We support researchers with study design, statistical analysis, prediction modelling, and manuscript preparation.
-
-### Clinical and organizational insights
-
-We help translate clinical and organizational data into useful insights for treatment evaluation, service improvement, and decision-making.
-
-### Reproducible reporting
-
-We develop reproducible workflows for reports, dashboards, and data products.
+## Our Aim
+Our goal is to support psychiatric and mental health research through trusted biostatistical methods, innovative data-analytic approaches, and secure web-based systems for data capture, management, reporting, and statistical analysis.

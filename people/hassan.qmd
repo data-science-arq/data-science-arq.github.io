@@ -8,17 +8,17 @@ title: "Hassan Pazira"
 
 ## Methodologist and Data Analyst
 
-Dr. Hassan Pazira is a statistician and data scientist at ARQ Nationaal Psychotrauma Centrum with extensive experience in advanced statistical modelling, prediction modelling, network modelling, machine learning, federated learning, programming, real-world data analysis, and reproducible statistical reporting.
+Dr. Hassan Pazira is a statistician and data scientist at ARQ Nationaal Psychotrauma Centrum (ARQ Centrum'45), with more than a decade of experience gained through several national and international projects in advanced statistical modelling, prediction modelling, network modelling, machine learning for biomarker discovery, federated learning, programming, real-world data analysis, and reproducible statistical reporting.
 
-He supports research and clinical projects with data preparation, methodological consultation, (high-dimensional) longitudinal and survival data analysis, mixed-effects modelling, clinical prediction modelling, Bayesian modelling, and machine learning applications in mental health care.
+He supports research and clinical projects with data preparation, methodological consultation, (high-dimensional) longitudinal and survival data analysis, mixed-effects modelling, clinical prediction modelling, Bayesian modelling, latent variable modelling, including factor analysis and latent profile/class analysis, analytics for personalized medicine, and machine learning applications in mental health care.
 
-His methodological interests include high-dimensional statistical learning, feature and model selection, supervised and unsupervised learning algorithms, Bayesian federated learning, and methods for analysing decentralized and multi-centre data.
+His methodological interests include high-dimensional statistical learning, feature and model selection, supervised and unsupervised learning algorithms, propensity score analysis, Bayesian federated learning, and methods for analysing decentralized and multi-centre data.
 
 
 
-**E:** h.pazira [at] arq.org
+**📧** &nbsp; h.pazira [at] arq.org
 
-[Google Scholar](https://goo.gl/eg366y) | [LinkedIn](https://www.linkedin.com/in/hassan-pazira-82178b78/) | [GitHub](https://github.com/hassanpazira)
+[Google Scholar](https://goo.gl/eg366y) &nbsp; | &nbsp; [LinkedIn](https://www.linkedin.com/in/hassan-pazira-82178b78/) &nbsp; | &nbsp;  [GitHub](https://github.com/hassanpazira)
 
 :::
 

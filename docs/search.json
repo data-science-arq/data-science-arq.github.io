@@ -25,42 +25,28 @@
     "href": "people/saara.html",
     "title": "Saara Martinmäki",
     "section": "",
-    "text": "Staff support, General quantitative research methods.\nE: S.Martinmaki [at] impact.arq.org\nLinkedIn"
+    "text": "Staff support, General quantitative research methods.\n📧   S.Martinmaki [at] impact.arq.org\nLinkedIn"
   },
   {
     "objectID": "people/saara.html#data-analyst",
     "href": "people/saara.html#data-analyst",
     "title": "Saara Martinmäki",
     "section": "",
-    "text": "Staff support, General quantitative research methods.\nE: S.Martinmaki [at] impact.arq.org\nLinkedIn"
+    "text": "Staff support, General quantitative research methods.\n📧   S.Martinmaki [at] impact.arq.org\nLinkedIn"
   },
   {
     "objectID": "people/annelies.html",
     "href": "people/annelies.html",
     "title": "Annelies de Haan",
     "section": "",
-    "text": "General quantitative research methods, Complex quantitative research methods, Experimental research designs (Randomized Controlled Trials).\nE: A.de.Haan [at] arq.org\nLinkedIn"
+    "text": "General quantitative research methods, Complex quantitative research methods, Experimental research designs (Randomized Controlled Trials).\n📧   A.de.Haan [at] arq.org\nLinkedIn"
   },
   {
     "objectID": "people/annelies.html#data-analyst",
     "href": "people/annelies.html#data-analyst",
     "title": "Annelies de Haan",
     "section": "",
-    "text": "General quantitative research methods, Complex quantitative research methods, Experimental research designs (Randomized Controlled Trials).\nE: A.de.Haan [at] arq.org\nLinkedIn"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Data Science @ ARQ",
-    "section": "",
-    "text": "The Data Science team at ARQ supports research, clinical practice, and organizational decision-making through high-quality data management, statistical modelling, machine learning, and reproducible reporting.\nWe help colleagues translate complex data into reliable and actionable insights. Our work includes routine outcome monitoring, treatment evaluation, prediction modelling, psychometrics, dashboarding, and methodological consultation.\nOur goal is to strengthen evidence-based practice within ARQ by making data analysis transparent, reproducible, and clinically meaningful."
-  },
-  {
-    "objectID": "index.html#what-we-do",
-    "href": "index.html#what-we-do",
-    "title": "Data Science @ ARQ",
-    "section": "What we do",
-    "text": "What we do\n\nResearch support\nWe support researchers with study design, statistical analysis, prediction modelling, and manuscript preparation.\n\n\nClinical and organizational insights\nWe help translate clinical and organizational data into useful insights for treatment evaluation, service improvement, and decision-making.\n\n\nReproducible reporting\nWe develop reproducible workflows for reports, dashboards, and data products."
+    "text": "General quantitative research methods, Complex quantitative research methods, Experimental research designs (Randomized Controlled Trials).\n📧   A.de.Haan [at] arq.org\nLinkedIn"
   },
   {
     "objectID": "contact.html",
@@ -77,32 +63,39 @@
     "text": "For questions about data science, statistical analysis, reporting, or methodological support, please contact the Data Science team.\nEmail: [add email address here]\nAlternatively, colleagues can contact one of the team members directly."
   },
   {
-    "objectID": "our-work.html",
-    "href": "our-work.html",
-    "title": "Our work",
-    "section": "",
-    "text": "The Data Science team works across several areas.\n\n\nWe support ROM reporting, outcome monitoring, questionnaire data processing, and automated reporting workflows.\n\n\n\nWe provide methodological support for research projects, including regression models, mixed-effects models, survival analysis, psychometrics, and prediction modelling.\n\n\n\nWe explore the use of machine learning methods for clinical prediction, risk stratification, and personalized treatment recommendations.\n\n\n\nWe contribute to dashboards, interactive reports, and tools that help colleagues explore and interpret data.\n\n\n\nWe support data cleaning, validation, harmonization, documentation, and reproducible data workflows."
+    "objectID": "index.html#data-science-group",
+    "href": "index.html#data-science-group",
+    "title": "Data Science @ ARQ",
+    "section": "Data Science Group",
+    "text": "Data Science Group\nThe Data Science (DS) group at ARQ Nationaal Psychotrauma Centrum provides statistical collaboration, data-analytic methodological support, and data management for psychiatric and mental health research. We collaborate with researchers across ARQ by providing data preparation, statistical expertise, reproducible analysis, and support for research projects."
   },
   {
-    "objectID": "our-work.html#our-work",
-    "href": "our-work.html#our-work",
-    "title": "Our work",
-    "section": "",
-    "text": "The Data Science team works across several areas.\n\n\nWe support ROM reporting, outcome monitoring, questionnaire data processing, and automated reporting workflows.\n\n\n\nWe provide methodological support for research projects, including regression models, mixed-effects models, survival analysis, psychometrics, and prediction modelling.\n\n\n\nWe explore the use of machine learning methods for clinical prediction, risk stratification, and personalized treatment recommendations.\n\n\n\nWe contribute to dashboards, interactive reports, and tools that help colleagues explore and interpret data.\n\n\n\nWe support data cleaning, validation, harmonization, documentation, and reproducible data workflows."
+    "objectID": "index.html#our-work",
+    "href": "index.html#our-work",
+    "title": "Data Science @ ARQ",
+    "section": "Our Work",
+    "text": "Our Work\nThe DS group supports researchers with study design, statistical analysis, prediction modelling, data management, and manuscript preparation. We help translate complex data into reliable and actionable insights, using modern statistical and data science methods to advance the understanding, evaluation, and improvement of mental health care."
+  },
+  {
+    "objectID": "index.html#our-aim",
+    "href": "index.html#our-aim",
+    "title": "Data Science @ ARQ",
+    "section": "Our Aim",
+    "text": "Our Aim\nOur goal is to support psychiatric and mental health research through trusted biostatistical methods, innovative data-analytic approaches, and secure web-based systems for data capture, management, reporting, and statistical analysis."
   },
   {
     "objectID": "people/hassan.html",
     "href": "people/hassan.html",
     "title": "Hassan Pazira",
     "section": "",
-    "text": "Dr. Hassan Pazira is a statistician and data scientist at ARQ Nationaal Psychotrauma Centrum with extensive experience in advanced statistical modelling, prediction modelling, network modelling, machine learning, federated learning, programming, real-world data analysis, and reproducible statistical reporting.\nHe supports research and clinical projects with data preparation, methodological consultation, (high-dimensional) longitudinal and survival data analysis, mixed-effects modelling, clinical prediction modelling, Bayesian modelling, and machine learning applications in mental health care.\nHis methodological interests include high-dimensional statistical learning, feature and model selection, supervised and unsupervised learning algorithms, Bayesian federated learning, and methods for analysing decentralized and multi-centre data.\nE: h.pazira [at] arq.org\nGoogle Scholar | LinkedIn | GitHub"
+    "text": "Dr. Hassan Pazira is a statistician and data scientist at ARQ Nationaal Psychotrauma Centrum (ARQ Centrum’45), with more than a decade of experience gained through several national and international projects in advanced statistical modelling, prediction modelling, network modelling, machine learning for biomarker discovery, federated learning, programming, real-world data analysis, and reproducible statistical reporting.\nHe supports research and clinical projects with data preparation, methodological consultation, (high-dimensional) longitudinal and survival data analysis, mixed-effects modelling, clinical prediction modelling, Bayesian modelling, latent variable modelling, including factor analysis and latent profile/class analysis, analytics for personalized medicine, and machine learning applications in mental health care.\nHis methodological interests include high-dimensional statistical learning, feature and model selection, supervised and unsupervised learning algorithms, propensity score analysis, Bayesian federated learning, and methods for analysing decentralized and multi-centre data.\n📧   h.pazira [at] arq.org\nGoogle Scholar   |   LinkedIn   |   GitHub"
   },
   {
     "objectID": "people/hassan.html#methodologist-and-data-analyst",
     "href": "people/hassan.html#methodologist-and-data-analyst",
     "title": "Hassan Pazira",
     "section": "",
-    "text": "Dr. Hassan Pazira is a statistician and data scientist at ARQ Nationaal Psychotrauma Centrum with extensive experience in advanced statistical modelling, prediction modelling, network modelling, machine learning, federated learning, programming, real-world data analysis, and reproducible statistical reporting.\nHe supports research and clinical projects with data preparation, methodological consultation, (high-dimensional) longitudinal and survival data analysis, mixed-effects modelling, clinical prediction modelling, Bayesian modelling, and machine learning applications in mental health care.\nHis methodological interests include high-dimensional statistical learning, feature and model selection, supervised and unsupervised learning algorithms, Bayesian federated learning, and methods for analysing decentralized and multi-centre data.\nE: h.pazira [at] arq.org\nGoogle Scholar | LinkedIn | GitHub"
+    "text": "Dr. Hassan Pazira is a statistician and data scientist at ARQ Nationaal Psychotrauma Centrum (ARQ Centrum’45), with more than a decade of experience gained through several national and international projects in advanced statistical modelling, prediction modelling, network modelling, machine learning for biomarker discovery, federated learning, programming, real-world data analysis, and reproducible statistical reporting.\nHe supports research and clinical projects with data preparation, methodological consultation, (high-dimensional) longitudinal and survival data analysis, mixed-effects modelling, clinical prediction modelling, Bayesian modelling, latent variable modelling, including factor analysis and latent profile/class analysis, analytics for personalized medicine, and machine learning applications in mental health care.\nHis methodological interests include high-dimensional statistical learning, feature and model selection, supervised and unsupervised learning algorithms, propensity score analysis, Bayesian federated learning, and methods for analysing decentralized and multi-centre data.\n📧   h.pazira [at] arq.org\nGoogle Scholar   |   LinkedIn   |   GitHub"
   },
   {
     "objectID": "people.html",

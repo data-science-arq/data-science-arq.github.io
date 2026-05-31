@@ -6,7 +6,7 @@ title: "Annelies de Haan"
 
 ::: {.profile-text}
 
-## Policy Advisor and Data Analyst
+## Data Analyst
 
 General quantitative research methods, Complex quantitative research methods, Experimental research designs (Randomized Controlled Trials).
 

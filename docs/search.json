@@ -18,7 +18,7 @@
     "href": "services.html#when-to-contact-us",
     "title": "Services",
     "section": "When to contact us",
-    "text": "When to contact us\nYou can contact the Data Science team when you are planning a study, preparing a manuscript, developing a report, working with clinical data, or exploring possibilities for prediction modelling or dashboarding."
+    "text": "When to contact us\nYou can contact the Data Science team when you are planning a study, creating or preparing a dataset, preparing a manuscript, developing a report, working with clinical data, or exploring possibilities for prediction modelling."
   },
   {
     "objectID": "people/saara.html",
@@ -28,8 +28,8 @@
     "text": "Staff support, General quantitative research methods.\nE: h.pazira - at - arq.org\nLinkedIn | ResearchGate"
   },
   {
-    "objectID": "people/saara.html#policy-advisor-and-data-analyst",
-    "href": "people/saara.html#policy-advisor-and-data-analyst",
+    "objectID": "people/saara.html#data-analyst",
+    "href": "people/saara.html#data-analyst",
     "title": "Saara Martinmäki",
     "section": "",
     "text": "Staff support, General quantitative research methods.\nE: h.pazira - at - arq.org\nLinkedIn | ResearchGate"
@@ -42,8 +42,8 @@
     "text": "General quantitative research methods, Complex quantitative research methods, Experimental research designs (Randomized Controlled Trials).\nE: h.pazira - at - arq.org\nLinkedIn | ResearchGate"
   },
   {
-    "objectID": "people/annelies.html#policy-advisor-and-data-analyst",
-    "href": "people/annelies.html#policy-advisor-and-data-analyst",
+    "objectID": "people/annelies.html#data-analyst",
+    "href": "people/annelies.html#data-analyst",
     "title": "Annelies de Haan",
     "section": "",
     "text": "General quantitative research methods, Complex quantitative research methods, Experimental research designs (Randomized Controlled Trials).\nE: h.pazira - at - arq.org\nLinkedIn | ResearchGate"
@@ -107,15 +107,8 @@
   {
     "objectID": "people.html",
     "href": "people.html",
-    "title": "People",
+    "title": "Data Science Team members",
     "section": "",
-    "text": "Data Analyst\nRead more\n\n\n\n\n\n\nData Analyst\nRead more\n\n\n\n\n\n\nMethodologist and Data Analyst\nRead more"
-  },
-  {
-    "objectID": "people.html#data-science-team-members",
-    "href": "people.html#data-science-team-members",
-    "title": "People",
-    "section": "",
-    "text": "Data Analyst\nRead more\n\n\n\n\n\n\nData Analyst\nRead more\n\n\n\n\n\n\nMethodologist and Data Analyst\nRead more"
+    "text": "Annelies de Haan\nData Analyst\nRead more\n\n\n\n\n\nSaara Martinmäki\nData Analyst\nRead more\n\n\n\n\n\nHassan Pazira\nMethodologist and Data Analyst\nRead more"
   }
 ]

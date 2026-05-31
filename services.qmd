@@ -19,4 +19,4 @@ The Data Science team can support colleagues with:
 
 ## When to contact us
 
-You can contact the Data Science team when you are planning a study, preparing a manuscript, developing a report, working with clinical data, or exploring possibilities for prediction modelling or dashboarding.
+You can contact the Data Science team when you are planning a study, creating or preparing a dataset, preparing a manuscript, developing a report, working with clinical data, or exploring possibilities for prediction modelling.

@@ -1,13 +1,12 @@
 ---
-title: "People"
+title: "Data Science Team members"
 ---
 
-## Data Science Team members
 
 ::: {.people-grid}
 
 ::: {.person-card}
-![](images/people/annelies.jpg)
+![](images/people/annelies.png)
 
 ### Annelies de Haan
 
@@ -19,7 +18,7 @@ title: "People"
 :::
 
 ::: {.person-card}
-![](images/people/saara.jpg)
+![](images/people/saara.png)
 
 
 ### Saara Martinmäki
@@ -32,7 +31,7 @@ title: "People"
 :::
 
 ::: {.person-card}
-![](images/people/hassan.jpg)
+![](images/people/hassan.png)
 
 ### Hassan Pazira
 

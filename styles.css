@@ -86,7 +86,7 @@ body {
   width: 180px;
   height: 220px;
   object-fit: cover;
-  object-position: center top;
+  object-position: center 30%;
   border-radius: 4px;
   margin-bottom: 18px;
 }
@@ -134,7 +134,7 @@ body {
   width: 200px;
   height: 230px;
   object-fit: cover;
-  object-position: center top;
+  object-position: center 30%;
   border-radius: 4px;
 }
 

@@ -8,11 +8,13 @@ title: "Hassan Pazira"
 
 ## Methodologist and Data Analyst
 
-Hassan supports research projects with statistical modelling, prediction modelling, reproducible reporting, and data preparation. His interests include longitudinal data analysis, clinical prediction models, psychometrics, and machine learning.
+Dr. Hassan Pazira is a statistician and data scientist at ARQ Nationaal Psychotrauma Centrum with extensive experience in advanced statistical modelling, prediction modelling, network modelling, machine learning, federated learning, programming, real-world data analysis, and reproducible statistical reporting.
 
-Hassan Pazira is a methodologist and data analyst at ARQ. He supports research and clinical projects with statistical modelling, prediction modelling, routine outcome monitoring, reproducible reporting, and data preparation.
+He supports research and clinical projects with data preparation, methodological consultation, (high-dimensional) longitudinal and survival data analysis, mixed-effects modelling, clinical prediction modelling, Bayesian modelling, and machine learning applications in mental health care.
 
-His interests include longitudinal data analysis, clinical prediction models, psychometrics, personalized prediction, and machine learning applications in mental health and psychotrauma care.
+His methodological interests include high-dimensional statistical learning, feature and model selection, supervised and unsupervised learning algorithms, Bayesian federated learning, and methods for analysing decentralized and multi-centre data.
+
+
 
 **E:** h.pazira [at] arq.org
 

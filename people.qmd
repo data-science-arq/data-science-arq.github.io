@@ -2,7 +2,7 @@
 title: "People"
 ---
 
-## Team members
+## Data Science Team members
 
 ::: {.people-grid}
 
@@ -11,9 +11,22 @@ title: "People"
 
 ### Annelies de Haan
 
-**Policy Advisor and Data Analyst**
+**Data Analyst**
 
 [Read more](people/annelies.qmd)
+
+
+:::
+
+::: {.person-card}
+![](images/people/saara.jpg)
+
+
+### Saara Martinmäki
+
+**Data Analyst**
+
+[Read more](people/saara.qmd)
 
 
 :::
@@ -26,18 +39,6 @@ title: "People"
 **Methodologist and Data Analyst**
 
 [Read more](people/hassan.qmd)
-
-:::
-
-::: {.person-card}
-![](images/people/saara.jpg)
-
-
-### Saara Martinmäki
-
-**Policy Advisor and Data Analyst**
-
-[Read more](people/saara.qmd)
 
 :::
 

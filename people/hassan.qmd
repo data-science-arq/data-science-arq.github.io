@@ -14,15 +14,15 @@ Hassan Pazira is a methodologist and data analyst at ARQ. He supports research a
 
 His interests include longitudinal data analysis, clinical prediction models, psychometrics, personalized prediction, and machine learning applications in mental health and psychotrauma care.
 
-**E:** h.pazira - at - arq.org
+**E:** h.pazira [at] arq.org
 
-[LinkedIn](#) | [ResearchGate](#)
+[Google Scholar](https://goo.gl/eg366y) | [LinkedIn](https://www.linkedin.com/in/hassan-pazira-82178b78/) | [GitHub](https://github.com/hassanpazira)
 
 :::
 
 ::: {.profile-photo}
 
-![](../images/people/hassan.jpg)
+![](../images/people/hassan.png)
 
 :::
 
